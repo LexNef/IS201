@@ -1,0 +1,45 @@
+/*The first 5 classes are for the Tableau page */
+.body {
+    background-color: rgb(135, 248, 135);
+}
+
+.header {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+
+.navigation {
+    font-size: 30px;
+}
+
+.footer {
+    text-align: center;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 20px;
+}
+/*The below classes are for the Home and About pages*/
+
+.IGbutton {
+    background-color: rgb(17, 86, 17);
+    border-color: rgb(17, 86, 17);
+    color: white;
+}
+
+.contact {
+    text-decoration: underline;
+}
+
+.toledo {
+    color: rgb(123, 155, 67);
+}
+
+.bold {
+    font-weight: bold;
+}
